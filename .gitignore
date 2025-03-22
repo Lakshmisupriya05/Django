@@ -3,3 +3,6 @@ venv/
 __pycache__/
 *.pyc
 *.pyo
+grid_project/
+myproject/
+student_project/
